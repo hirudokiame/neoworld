@@ -2,3 +2,4 @@
 
 ---
 
+<a href="../Comics/s01.html">     <img border="0" src="../Icons/2.jpg" />
