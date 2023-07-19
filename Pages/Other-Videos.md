@@ -1,8 +1,6 @@
-[<< Back](./Other.md)
+[<< Back](./Other.html)
 
 ---
-
-# Videos
 
 ダカラドオシタ
 

@@ -1,4 +1,4 @@
-|	[About](../index.md)	|	**Stories**	|	[Characters](./Characters.md)	|	[Other](./Other.md)	|
+|	[About](../index.html)	|	**Stories**	|	[Characters](./Characters.html)	|	[Other](./Other.html)	|
 
 ---
 

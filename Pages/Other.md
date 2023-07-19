@@ -1,5 +1,20 @@
-|	[About](./index.md)	|	[Stories](./Stories.md)	|	[Characters](./Characters.md)	|	**Other**	|
+|	[About](../index.html)	|	[Stories](./Stories.html)	|	[Characters](./Characters.html)	|	**Other**	|
 
 ---
 
-<a href="./Other-Videos.md">     <img border="0" src="../Icons/1.jpg" /></a>
+![](..\Icons\2.png)
+
+- [2016-2022](../Pictures/pic1.html)
+
+- [2023](../Pictures/pic2.html)
+
+  ![](..\Icons\3.png)
+
+- [2019-2022](../Pictures/pic3.html)
+
+---
+
+<a href="./Other-Videos.html">     <img border="0" src="../Icons/1.jpg" /></a>
+
+---
+
